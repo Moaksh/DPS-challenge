@@ -1,2 +1,5 @@
 pandas
 matplotlib
+scikit-learn
+joblib
+statsmodels
