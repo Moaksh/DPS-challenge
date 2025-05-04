@@ -1,2 +1,3 @@
 models/accident_predictor_arima.joblib
 models/accident_predictor_sarima.joblib
+models/accident_predictor_arima.joblib

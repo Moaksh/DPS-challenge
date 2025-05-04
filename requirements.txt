@@ -3,3 +3,7 @@ matplotlib
 scikit-learn
 joblib
 statsmodels
+fastapi
+uvicorn
+pydantic
+typing
